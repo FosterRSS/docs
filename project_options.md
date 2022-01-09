@@ -11,3 +11,7 @@ Dedicate developer work to browser to make feeds visible again in the browser UI
 Create a site that explains how feed files work and how to use them, for several use cases and for users as well as developers. The site could also showcase projects build on RSS, and additionally serve as a home for this initiative.
 
 Note: There already exist sites that explain RSS, like https://aboutfeeds.com/ and https://mg.guelker.eu/saverss/.
+
+## Feeds by CMSs
+
+Dedicate developer work to add feeds to CMSs that are missing them currently, so that they can be created by default.
